@@ -14,11 +14,10 @@
 ## Установка
 
 1. Клонировать репозиторий:
-```bash
+
 git clone https://github.com/твой-логин/название-репозитория.git
 cd название-репозитория
 
 2. Настроить рабочую директорию в файле config.ini:
 
-[Settings]
-work_directory = ./sandbox
+work_directory = "Путь к директории"/sandbox
